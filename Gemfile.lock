@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    require_all (1.4.0)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  require_all (~> 1.4)
+
+BUNDLED WITH
+   1.14.6
